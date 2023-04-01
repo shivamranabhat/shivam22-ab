@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Ranabhat</h1>
-<h3 align="center">Passionate full stack web developer with a hunger for knowledge and a talent for designing and building dynamic web applications</h3>
+<h3 align="center">And I'm a passionate full stack web developer with a hunger for knowledge and a talent for designing and building dynamic web applications</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
 
