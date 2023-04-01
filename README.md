@@ -1,3 +1,4 @@
+![logo] (https://github.com/shivam22-ab/shivam22-ab/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Ranabhat</h1>
 <h3 align="center">And I'm a passionate full stack web developer with a hunger for knowledge and a talent for designing and building dynamic web applications</h3>
 
