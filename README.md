@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam22-ab&label=Profile%20views&color=0e75b6&style=flat" alt="shivam22-ab" /> 28</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam22-ab&label=Profile%20views&color=0e75b6&style=flat" alt="shivam22-ab" /></p>
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/shivam22-ab/Final-Year-Project-Laravel-9-)
 
