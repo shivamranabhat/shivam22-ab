@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/shivam22-ab/Final-Year-Project-Laravel-9-)
 
-- 🌱 I’m currently learning **View.js & Laravel**
+- 🌱 I’m currently learning **Vue.js & Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam22-ab](https://github.com/shivam22-ab)
 
