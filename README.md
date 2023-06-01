@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [Final Year Project](https://github.com/shivam22-ab/Final-Year-Project-Laravel-9-)
 
-- 🌱 I’m currently learning **React.js & Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam22-ab](https://github.com/shivam22-ab)
 
