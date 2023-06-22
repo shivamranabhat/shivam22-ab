@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam22-ab&label=Profile%20views&color=0e75b6&style=flat" alt="shivam22-ab" /></p>
 
-- 🔭 I’m currently working on [Final Year Project](https://github.com/shivam22-ab/Final-Year-Project-Laravel-9-)
+- 🔭 I’m currently learning Nuxt.js
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivam22-ab](https://github.com/shivam22-ab)
